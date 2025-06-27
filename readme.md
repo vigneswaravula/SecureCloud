@@ -2,7 +2,7 @@
 
 SecureCloud is a full-stack, production-grade cloud storage system — your personal Google Drive alternative. With robust file management, secure sharing, smart AI search, real-time collaboration, and enterprise-grade features like version control and audit logging, it offers an intuitive, secure, and lightning-fast user experience.
 
-🌐 **Live Demo**: [https://securecloud-app.vercel.app](https://securecloud-app.vercel.app)
+🌐 **Live Demo**: [https://cheery-piroshki-152bfd.netlify.app/](https://cheery-piroshki-152bfd.netlify.app/)
 
 ---
 
