@@ -133,6 +133,3 @@ SecureCloud is a full-stack, production-grade cloud storage system — your pers
 - Webhook verification and Stripe security
 
 ---
-
-## 📁 Project Structure
-
